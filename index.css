@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: ralewaybold;
-    src: url("/font/Raleway-Bold.ttf");
+    src: url("./font/Raleway-Bold.ttf");
 }
 
 @font-face {
     font-family: raleway;
-    src: url('/font/Raleway-Medium.ttf');
+    src: url('./font/Raleway-Medium.ttf');
 }
 
 html {
