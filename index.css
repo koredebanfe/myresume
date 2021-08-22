@@ -106,7 +106,8 @@ a {
 }
 
 main header,
-footer {
+footer,
+.project h3{
     padding: 2rem 2rem;
     text-align: center;
 }
@@ -178,6 +179,17 @@ img {
 
 .header__details br {
     display: none;
+}
+
+.project  {
+    background-color: whitesmoke;
+    padding-left: 5vw;
+    margin-top: -3vh;
+}
+
+.project a {
+    display: block;
+    margin-top: 5vh;
 }
 
 @media only screen and (min-width: 768px){
